@@ -31,3 +31,4 @@ function loginSecure(db, userInput, passwordInput) {
   db.execute(query, [userInput, passwordInput]);
   console.log("Secure query executed with parameters.");
 }
+}}}}}}}}}}}}}}}}}}}}}}}}}}}
