@@ -6,3 +6,7 @@ function loginVulnerable(userInput, passwordInput) {
   console.log("Running query:", query);
   // Imagine this query being executed directly → unsafe
 }
+
+func1(){
+  //hack it
+}
